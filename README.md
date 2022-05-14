@@ -1,6 +1,6 @@
 # Curso De Angular Router
 
-Material realizado en el curso de "Angular Router" de [Platzi]()
+Material realizado en el curso de "Angular Router: Lazy Loading y Programación Modular" de [Platzi]()
 
 ## Tecnologías 🚀
 

@@ -6,9 +6,9 @@ import {
   Product,
   CreateProductDTO,
   UpdateProductDTO,
-} from '../../models/product.model';
+} from '../../../models/product.model';
 
-import { StoreService } from '../../services/store.service';
+import { StoreService } from '../../../services/store.service';
 
 @Component({
   selector: 'app-products',
