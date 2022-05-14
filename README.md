@@ -1,6 +1,6 @@
 # Curso De Angular Router
 
-Material realizado en el curso de "Angular Router: Lazy Loading y Programación Modular" de [Platzi]()
+Material realizado en el curso de "Angular Router: Lazy Loading y Programación Modular" de [Platzi](https://platzi.com/p/JuamBer/curso/2487-angular-modular/diploma/detalle/)
 
 ## Tecnologías 🚀
 
@@ -20,5 +20,5 @@ Material realizado en el curso de "Angular Router: Lazy Loading y Programación 
 
 ## Certificación 🎓
 
-Aún me encuentro realizando el curso.
+![Certificación](https://github.com/JuamBer/Platzi-CursoAngularRouter/blob/master/img-licencia/diploma-angular-modular.jpg)
 
